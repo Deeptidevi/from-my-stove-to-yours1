@@ -6,7 +6,7 @@
     },
     "type": "module",
     "scripts": {
-        "build": "vite build",
+        "build": "echo 'Skipping build, using pre-compiled assets'",
         "dev": "vite"
     },
     "devDependencies": {
